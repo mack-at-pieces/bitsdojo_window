@@ -37,10 +37,31 @@
             </list>
           </value>
         </entry>
+        <entry key="bitsdojo_window_linux">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_linux-0.1.1/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="bitsdojo_window_macos">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_macos-0.1.0/lib" />
+            </list>
+          </value>
+        </entry>
         <entry key="bitsdojo_window_platform_interface">
           <value>
             <list>
               <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_platform_interface-0.1.0/lib" />
+            </list>
+          </value>
+        </entry>
+        <entry key="bitsdojo_window_windows">
+          <value>
+            <list>
+              <option value="$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_windows-0.1.0/lib" />
             </list>
           </value>
         </entry>
@@ -424,7 +445,10 @@
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.11/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/args-2.3.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/async-2.8.2/lib" />
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_linux-0.1.1/lib" />
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_macos-0.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_platform_interface-0.1.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/bitsdojo_window_windows-0.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/boolean_selector-2.1.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/build-2.3.0/lib" />
       <root url="file://$PROJECT_DIR$/../../flutter/.pub-cache/hosted/pub.dartlang.org/built_collection-5.1.1/lib" />
